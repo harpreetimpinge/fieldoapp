@@ -1,0 +1,320 @@
+
+
+"Login"              = "Logg inn";
+"Welcome"            = "Velkommen";
+"Remember Password?" = "Husk passord?";
+"Lost Password"      = "Glemt passord";
+"Contact Support"    = "Kontakt Support";
+"Notes"              = "Merknader";
+"Settings"           = "Innstillinger";
+"Home"               = "Hjem";
+"Welcome to Fieldo."       = "Velkommen til Fieldo.";
+"For any questions please"       = "For eventuelle spørsmål ta";
+"contact us via our web site."       = "kontakte oss via vår hjemmeside.";
+
+
+
+"Store"        = "Oppbevar";
+"Order no."    = "ordrenummer";
+"Order value." = "Bestill / artikkel Pris";
+
+"Store:"   = "Oppbevar:";
+
+
+"Customer Details" = "Kunde Detaljer";
+"Project Details"  = "Prosjektdetaljer";
+"Work Plan" = "Arbeidsplan";
+"Floor Plan" = "dokumenter";
+
+
+"Accept"  = "Godta";
+"Pending" = "Avventer";
+"Decline" = "Avslå";
+
+
+//Add Projects Screen
+
+"Add Project"   ="Legg Prosjekt";
+"Project Name" = "Prosjektnavn";
+"Customer"="kunde";
+"Worker(s)"="Deltaker (e)";
+"Start Date"="startdato";
+"Tax Reduction Code"="Skattenedsettelsen Kode";
+"Incl. Vat"="Inkl. vat";
+"Cost"="Kostnad";
+"Description"="Beskrivelse";
+"Save"="Lagre";
+"Cancel"="Avbryt";
+"Choose Customer"="Velg Kunde";
+"Done"="gjort";
+
+"Camera"="kamera";
+"Photos"="Bilder";
+
+
+//Choose Customer Screen
+
+"Select Customer"   ="Velg Kunde";
+
+
+//Choose Worker Screen
+
+"Select Workers"   ="Velg Workers";
+
+//Add Customer Screen
+
+"Add Customer"   ="Legg Kunde";
+"Name"   ="Navn";
+"Company Name" = "Firmanavn";
+"Organization No."="Organisasjonen Nei.";
+"Phone"="telefon";
+"Email"="E-post";
+"EDI" = "EDI";
+
+
+//Home View
+
+"Projects" = "Prosjekter";
+"Calendar" = "Kalender";
+"Log"      = "Logg";
+"Notes"    = "Merknader";
+"Settings" = "Innstillinger";
+"Home"     = "Hjem";
+
+"Map"  = "Kart";
+
+
+//Settings View
+
+"Profile"           = "profil";
+"Change Language"   = "Endre Språk";
+"Out of the Office" = "fravær";
+"Log Out"            = "Utlogging";
+
+
+"Name"       =  "Navn";
+"Skill Set"  =  "Skill Set";
+"Email"      =  "E-post";
+"Contact No." =  "telefon";
+"Address"    =  "Adresse";
+"City"       =  "By";
+"State"      =  "stat";
+"Country"    =  "land";
+"Zip"        =  "Zip";
+
+
+"Stores" = "Leverandør";
+"Store Url" = "Leverandør url";
+"Description" = "Beskrivelse";
+
+"No Project" = "Ingen prosjekter å vise";
+
+
+"Choose Language" = "Velg språk";
+"Date:"            = "dato:";
+"Date"           =  "dato";
+"Start Date:"    = " Start dato:";
+"Start Date"    = " Start dato";
+"End Date:"      = "Sluttdato:";
+"Reason:"         = "Reason:";
+"Sick Leave"     = "Sykefravær";
+"Holiday"        = "Ferie";
+"Parental Leave" = "Foreldrepermisjon";
+"Other"          = "Annet";
+"Save"           = "lagre";
+
+"Time Log"     = "Tidsloggen";
+"Material Details" = "Materiale detaljer";
+"Material Log" = "Materiale Regning";
+"Reports"      = "Rapporter";
+"Project Report" = "Prosjekt/fakturagrunnlag";
+
+"Start Time:"        = "Starttid:";
+"End Time:"          = "Sluttid";
+"Type:"              = "Type:";
+"Normal Time"        = "Normal gang";
+"Overtime"           = "overtid";
+"Uncomfortable Time" = "Ubehagelig Tid ";
+"More Time"          = "Mer tid";
+"Call Time"          = "Ring gang";
+"Pause"              = "Pause";
+"Comments"           = "Kommentarer";
+"Comment"            = "kommentar";
+
+
+"Submit" = "Send inn";
+"Get Image" = "få bilde";
+
+"View Image" = "Se blide";
+
+
+"From:"       =  "Fra*:";
+"To:"         =  "Til*:";
+
+"Travel Log" =  "Reise Logg";
+"From"       =  "fra*";
+"To"         =  "til*";
+"Km"         =  "km";
+"Other fee"  =  "Bompenger m.m.";
+
+"Compose" =  "Nytt Meddelande";
+"Title"   =  "Tittel";
+"Message" =  "Melding";
+"Send"    =  "Send";
+"Cancel"  =  "Avbryt";
+"Notes List" = "Merknader Liste";
+"Project:"  = "Prosjekt:";
+"Sender"  ="Avsender";
+"Subject" ="Subject";
+"Note Detail"="Note Detalj";
+
+
+//Further Additions
+
+"Phone"              = "Telefon";
+"Port Code"          = "Postnummer";
+"Other Info"         = "Annen informasjon";
+
+
+//New Strings
+
+"Route Me"                                      = "visa veien";
+"Add Task"                                      = "legger til oppgave";
+"Under:"                                        = "etter:";
+"Task Name*"                                    = "Oppgave navn*";
+"Material Name"                                 = "Materialnavn";
+"Estimated Hour*"                               = "Estimert tid*";
+"Contact Us"                                    = "Kontakt oss";
+//"Tap, Scroll to Pick Project, Tap again"      = "peka igen  Skroll og velg ett prosjekt, trykk igjen";
+"Scroll to Pick Project, Tap again"             = "Bla til Pick Project, Trykk igjen";
+"Change Language"                               = "Velg språk";
+"Company Details"                               = "Bedriftsinformasjon";
+"Workers"                                       = "Hendig mann";
+"Company Name"                                  = "Bedriftsnavn";
+"Cost"                                          = "Kostnad";
+"Worker List"                                   = "Hendig mann lista";
+"Invoices"                                      = "Faktura";
+"Time"                                          = "Tid";
+"Fixed"                                         = "Fast";
+"Ratings"                                       = "Gjennomgang";
+"Project Name"                                  = "Prosjekt navn";
+"Update Rating"                                 = "Oppdater Gjennomgang";
+"Rating Index"                                  = "Bedrift gjennomgang";
+"Search Location"                               = "Søk plassering";
+"My Location"                                   = "min plassering";
+"Project Location"                              = "Prosjekt plassering";
+"URL"                                           = "URL";
+"Rating"                                       = "Gjennomgang";
+
+"Account No."                                   = "Kontonummer";
+
+"All Leaves"                                    = "alle blader";
+
+"Edit"                                          = "Rediger";
+"New Projects"                                  = "Nye prosjekter";
+"You can edit the Leave"                        = "Du kan redigere La";
+
+
+"Please enter a valid Username and Password. Please try again."     =   "Skriv inn en gyldig brukernavn og passord. Vennligst prøv igjen.";
+
+
+// UIAlertView Message.
+//import "AddCommentsViewController.h"
+"Internet connection is not available. Please try again."       =   "Internett-tilkobling er ikke tilgjengelig. Vennligst prøv igjen.";
+"Any Log Left ?"                                                =   "Enhver Logg Venstre ?";
+"Click Yes to fill the logs."                                   =   "Klikk Ja for å fylle loggene.";
+"Device doesn't support that camera."                           =   "Enheten støtter ikke det kameraet.";
+"Device doesn't support that media source."                     =   "Enheten støtter ikke at media kilde.";
+
+//import "addCustomerViewController.h"
+"Please enter valid email."                                     =   "Skriv inn gyldig e-.";
+"Please fill the required fields to create customer."           =   "Vennligst fyll ut de nødvendige feltene for å skape kunde.";
+
+//import "addProjectViewController.h"
+"Please enter Tax Reduction Code first."                        =   "Skriv inn skattenedsettelsen Kode først.";
+"Simulator doesn't support the camera."                         =   "Simulator tillater ikke kameraet.";
+"Server is down, Please try again."                             =   "Serveren er nede, vennligst prøv igjen.";
+"Please fill all the mandatory fields to create a project."     =   "Vennligst fyll alle obligatoriske felter for å opprette et prosjekt.";
+
+//import "AddTaskTVC.h"
+"Please select date."                                           =   "Vennligst velg dato.";
+"Please fill required details."                                 =   "Vennligst fyll nødvendige detaljer.";
+"Please provide estimated hours."                               =   "Vennligst oppgi estimerte timer.";
+"End Date should be greater than start date."                   =   "Sluttdato skal være større enn startdato.";
+
+//import "ComposeMessageVC.h"
+"Please select project."                                        =   "Velg prosjekt.";
+
+//import "ConnectionManager.h"
+"Failed in viewDidLoad."                                        =   "Mislyktes i viewDidLoad.";
+
+//import "ContactUsTVC.h" & import "CustomerDetailsVC.h"
+"Phone number does not exist."                                  =   "Telefonnummer ikke eksisterer.";
+"Your device doesn't support this feature."                     =   "Enheten støtter ikke denne funksjonen.";
+"Please configure Email Functionality in your Device."          =   "Vennligst konfigurere Email Funksjonalitet i din enhet.";
+
+//import "customerViewController.h"
+"No data found."                                                =   "Ingen data funnet.";
+
+//import "ediViewController.h"
+"Failed to upload data."                                        =   "Klarte ikke å laste opp data.";
+"No Data available."                                            =   "Ingen data tilgjengelig.";
+
+//import "FloorPlanCVC.h"
+"No data in this category."                                     =   "Ingen data i denne kategorien.";
+
+//import "InvoiceProjectReportTVC.h"
+"This invoice has already been accepted."                       =   "Denne fakturaen er allerede akseptert.";
+
+//import "LoginVC.h"
+"Please enter a valid email address."                           =   "Skriv inn en gyldig e-postadresse.";
+"Please enter your password."                                   =   "Skriv inn passordet ditt.";
+"Data parameter is nil."                                        =   "Data parameter er nil.";
+
+//import "LogVC.h"
+"No Projects yet."                                              =   "Ingen Prosjekter ennå.";
+"Select project."                                               =   "Velg prosjekt.";
+
+//import "MapRouteViewController.h"
+"Failed to get your location."                                  =   "Mislyktes i å få din plassering.";
+
+//import "MaterialExpenseVC.h"
+"No project lists are available."                               =   "Ingen prosjekt lister er tilgjengelige.";
+"Please provide Order value."                                   =   "Vennligst oppgi Bestill verdi.";
+"Please Fill Order Number."                                     =   "Vennligst fyll ordrenummer.";
+"Material Log already exists."                                  =   "Materialet Logg allerede eksisterer.";
+
+//import "NewProjectsListTableViewController.h"
+"No data in new projects."                                      =   "No data in new projects.";
+
+//import "NotesVC.h"
+"No notes found."                                               =   "Ingen data på nye prosjekter.";
+
+//import "NSIUtility.h"
+"This feature is under development and will be available in future releases."   =   "Denne funksjonen er under utvikling og vil være tilgjengelig i fremtidige utgivelser.";
+
+//import "OutOfTheOfficeVC.h"
+"Select Start Date."                                            =   "Velg startdato.";
+"Select End Date."                                              =   "Velg Sluttdato.";
+"Select Reason For Leave."                                      =   "Velg Reason for La.";
+"End Date should not be earlier than the Start Date."           =   "Sluttdato bør ikke være tidligere enn startdato.";
+"Leave already applied."                                        =   "Forlate allerede søkt.";
+"You can edit the Leave."                                       =   "Du kan redigere La.";
+
+//import "ProjectsVC.h"
+"Server is down please try again later."                        =   "Server er nede Prøv igjen senere.";
+
+//import "RatingDetailTVC.h"
+"Inserted Successfully."                                        =   "innsatt Vellykket.";
+
+//import "SettingVC.h"
+"Are you sure to logout ?"                                       =   "Er du sikker på å logge ut ?";
+
+//import "TimeLogVC.h"
+"From Time Cannot exceeds the current time."                    =   "Fra Tid kan ikke overskrider gjeldende klokkeslett.";
+"Selected time cannot be exceeded."                             =   "Valgt tidspunkt kan ikke overskrides.";
+"Time Log already exists for this date."                        =   "Tid Logg allerede eksisterer for denne datoen.";
+
+//import "TravelExpenseVC.h"
+"Over the Sea...."                                              =   "Over the Sea....";
+

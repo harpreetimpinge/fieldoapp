@@ -1,0 +1,318 @@
+
+
+"Login"				 = "Login";
+"Welcome"            = "Welcome";
+"Remember Password?" = "Remember Password?";
+"Lost Password"      = "Lost Password";
+"Contact Support"    = "Contact Support";
+"Notes"              = "Notes";
+"Settings"           = "Settings";
+"Home"               = "Home";
+"Welcome to Fieldo."       = "Welcome to Fieldo.";
+"For any questions please"       = "For any questions please";
+"contact us via our web site."       = "contact us via our web site.";
+"Worker" = "Worker";
+"Customer" = "Customer";
+
+//Store View
+"Stores" = "Suppliers";
+"Store Url" = "Supplier Url";
+"Description" = "Description";
+
+"View Image" = "View Image";
+
+"Accept"  = "Accept";
+"Pending" = "Pending";
+"Decline" = "Decline";
+
+//Material Log
+"Material Details" = "Material Details";
+"Material Log" = "Material Log";
+"Store"        = "Supplier";
+"Order no."    = "Order no";
+"Order value." = "Order/Article Price";
+
+//Home View
+
+"Projects" = "Projects";
+"Calendar" = "Calendar";
+"Store"    = "Supplier";
+"Log"      = "Log";
+"Notes"    = "Notes";
+"Settings" = "Settings";
+"Home"     = "Home";
+
+//Settings View
+
+"Profile"           = "Profile";
+"Change Language"   = "Change Language";
+"Out of the Office" = "Out of the Office";
+"Log Out"            = "Log Out";
+
+//Profile View
+
+"Name"       = "Name";
+"Skill Set"  = "Skill Set";
+"Email"      = "Email";
+"Contact No." = "Contact No.";
+"Address"    = "Address";
+"City"       = "City";
+"State"      = "State";
+"Country"    = "Country";
+"Zip"        = "Zip";
+
+"Choose Language" = "Choose Language";
+"Date:"           =  "Date:";
+"Date"           =  "Date";
+"Start Date"    =  "Start Date";
+"End Date:"      =  "End Date:";
+"Reason:"         = "Reason:";
+"Sick Leave"     =  "Sick Leave";
+"Holiday"        =  "Holiday";
+"Parental Leave" =  "Parental Leave";
+"Other"          =  "Other";
+"Save"           =  "Save";
+
+"Map"   = "Map";
+
+
+
+"Start Time:"        = "Start Time:";
+"End Time:"          = "End Time:";
+"Start Date:"        = "Start Date:";
+"Type:"              = "Type:";
+"Normal Time"        = "Normal Time";
+"Overtime"           = "Overtime";
+"Uncomfortable Time" = "Uncomfortable Time";
+"More Time"          = "More Time";
+"Call Time"          = "Call Time";
+"Pause"              = "Pause";
+"Comments"           = "Comments";
+
+"From:"      = "From*:";
+"To:"        = "To*:";
+
+
+"From"      = "From*";
+"To"        = "To*";
+"Km"        = "Km";
+"Other fee" = "Other fee";
+"Comment"  = "Comment";
+
+//Notes
+"Compose" = "New Message";
+"Title"   = "Title";
+"Message" = "Message";
+"Send"    = "Send";
+"Cancel"  = "Cancel";
+"Notes List"   = "Notes List";
+"Project:"  = "Project:";
+"Sender"  ="Sender";
+"Subject" ="Subject";
+"Note Detail"="Note Detail";
+
+//Project Option VC
+"Customer Details" = "Customer Details";
+"Project Details"  = "Project Details";
+"Work Plan" = "Work Plan";
+"Floor Plan" = "Documents";
+
+//Log View
+
+"Time Log"     = "Time Log";
+"Travel Log"   = "Travel Log";
+"Material Log" = "Material Log";
+"Reports"      = "Reports";
+"Project Report" = "Project Report";
+"Project Type" = "Project Type";
+"Submit" = "Submit";
+"Get Image" = "Get Image";
+
+//Further Additions
+
+"Phone"              = "Phone";
+"Port Code"          = "Zip Code";
+"Other Info"         = "Other Info";
+"Store:"             = "Supplier:";
+
+"Progress Report"  = "Progress Report";
+
+
+//Add Projects Screen
+
+"Add Project"   = "Add Project";
+"Project Name" = "Project Name";
+"Customer" = "Customer";
+"Worker(s)" = "Worker(s)";
+"Start Date" = "Start Date";
+"Tax Reduction Code" = "Tax Reduction Code";
+"Incl. Vat" = "Incl. Vat";
+"Cost" = "Cost";
+"Description" = "Description";
+"Save" = "Save";
+"Cancel" = "Cancel";
+"Choose Customer"="Choose Customer";
+"Done"="Done";
+
+"Camera"="Camera";
+"Photos"="Photos";
+
+//Choose Customer Screen
+
+"Select Customer"   = "Select Customer";
+
+
+//Choose Worker Screen
+
+"Select Workers"   = "Select Workers";
+
+//Add Customer Screen
+
+"Add Customer"   ="Add Customer";
+"Name"   = "Name";
+"Company Name" = "Company Name";
+"Organization No."="Organization No.";
+"Phone" = "Phone";
+"Email" = "Email";
+"EDI" = "EDI";
+
+//New Strings
+
+"Route Me"                                      = "Route Me";
+"Add Task"                                      = "Add Task";
+"Under:"                                        = "Under:";
+"Task Name*"                                    = "Task Name*";
+"Material Name"                                 = "Material Name";
+"Estimated Hour*"                               = "Estimated Hour*";
+"Contact Us"                                    = "Contact Us";
+"Scroll to Pick Project, Tap again"             = "Scroll to Pick Project, Tap again";
+"Change Language"                               = "Change Language";
+"Company Details"                               = "Company Details";
+"Workers"                                       = "Workers";
+"Company Name"                                  = "Company Name";
+"Cost"                                          = "Cost";
+"Worker List"                                   = "Worker List";
+"Invoices"                                      = "Invoices";
+"Time"                                          = "Time";
+"Fixed"                                         = "Fixed";
+"Ratings"                                       = "Ratings";
+"Project Name"                                  = "Project Name";
+"Update Rating"                                 = "Update Rating";
+"Rating Index"                                  = "Rating Index";
+"Search Location"                               = "Search Location";
+"My Location"                                   = "My Location";
+"Project Location"                              = "Project Location";
+"URL"                                           = "URL";
+"Rating"                                        = "Rating";
+
+"Account No."                                   = "Account No.";
+
+"All Leaves"                                    = "All Leaves";
+
+"Edit"                                          = "Edit";
+
+"New Projects"                                  = "New Projects";
+
+
+"Please enter a valid Username and Password. Please try again."     =   "Please enter a valid Username and Password. Please try again.";
+
+
+// UIAlertView Message.
+//import "AddCommentsViewController.h"
+"Internet connection is not available. Please try again."       =   "Internet connection is not available. Please try again.";
+"Any Log Left ?"                                                =   "Any Log Left ?";
+"Click Yes to fill the logs."                                   =   "Click Yes to fill the logs.";
+"Device doesn't support that camera."                           =   "Device doesn't support that camera.";
+"Device doesn't support that media source."                     =   "Device doesn't support that media source.";
+
+//import "addCustomerViewController.h"
+"Please enter valid email."                                     =   "Please enter valid email.";
+"Please fill the required fields to create customer."           =   "Please fill the required fields to create customer.";
+
+//import "addProjectViewController.h"
+"Please enter Tax Reduction Code first."                        =   "Please enter Tax Reduction Code first.";
+"Simulator doesn't support the camera."                         =   "Simulator doesn't support the camera.";
+"Server is down, Please try again."                             =   "Server is down, Please try again.";
+"Please fill all the mandatory fields to create a project."     =   "Please fill all the mandatory fields to create a project.";
+
+//import "AddTaskTVC.h"
+"Please select date."                                           =   "Please select date.";
+"Please fill required details."                                 =   "Please fill required details.";
+"Please provide estimated hours."                               =   "Please provide estimated hours.";
+"End Date should be greater than start date."                   =   "End Date should be greater than start date.";
+
+//import "ComposeMessageVC.h"
+"Please select project."                                        =   "Please select project.";
+
+//import "ConnectionManager.h"
+"Failed in viewDidLoad."                                        =   "Failed in viewDidLoad.";
+
+//import "ContactUsTVC.h" import "CustomerDetailsVC.h"
+"Phone number does not exist."                                  =   "Phone number does not exist.";
+"Your device doesn't support this feature."                     =   "Your device doesn't support this feature.";
+"Please configure Email Functionality in your Device."          =   "Please configure Email Functionality in your Device.";
+
+//import "customerViewController.h"
+"No data found."                                                =   "No data found.";
+
+//import "ediViewController.h"
+"Failed to upload data."                                        =   "Failed to upload data.";
+"No Data available."                                            =   "No Data available";
+
+//import "FloorPlanCVC.h"
+"No data in this category."                                     =   "No data in this category.";
+
+//import "InvoiceProjectReportTVC.h"
+"This invoice has already been accepted."                       =   "This invoice has already been accepted.";
+
+//import "LoginVC.h"
+"Please enter a valid email address."                           =   "Please enter a valid email address.";
+"Please enter your password."                                   =   "Please enter your password.";
+"Data parameter is nil."                                        =   "Data parameter is nil.";
+
+//import "LogVC.h"
+"No Projects yet."                                              =   "No Projects yet.";
+
+//import "MapRouteViewController.h"
+"Failed to get your location."                                  =   "Failed to get your location.";
+
+//import "MaterialExpenseVC.h"
+"No project lists are available."                               =   "No project lists are available.";
+"Please provide Order value."                                   =   "Please provide Order value.";
+"Please Fill Order Number."                                     =   "Please Fill Order Number.";
+"Material Log already exists."                                  =   "Material Log already exists.";
+
+//import "NewProjectsListTableViewController.h"
+"No data in new projects."                                      =   "No data in new projects.";
+
+//import "NotesVC.h"
+"No notes found."                                               =   "No notes found.";
+
+//import "NSIUtility.h"
+"This feature is under development and will be available in future releases."   =   "This feature is under development and will be available in future releases.";
+
+//import "OutOfTheOfficeVC.h"
+"Select Start Date."                                            =   "Select Start Date.";
+"Select End Date."                                              =   "Select End Date.";
+"Select Reason For Leave."                                      =   "Select Reason For Leave.";
+"End Date should not be earlier than the Start Date."           =   "End Date should not be earlier than the Start Date.";
+"Leave already applied."                                        =   "Leave already applied.";
+"You can edit the Leave."                                       =   "You can edit the Leave.";
+
+//import "ProjectsVC.h"
+"Server is down please try again later."                        =   "Server is down please try again later.";
+
+//import "RatingDetailTVC.h"
+"Inserted Successfully."                                        =   "Inserted Successfully.";
+
+//import "SettingVC.h"
+"Are you sure to logout ?"                                       =   "Are you sure to logout ?";
+
+//import "TimeLogVC.h"
+"From Time Cannot exceeds the current time."                    =   "From Time Cannot exceeds the current time.";
+"Selected time cannot be exceeded."                             =   "Selected time cannot be exceeded.";
+"Time Log already exists for this date."                        =   "Time Log already exists for this date.";
+
+//import "TravelExpenseVC.h"
+"Over the Sea...."                                              =   "Over the Sea....";
+

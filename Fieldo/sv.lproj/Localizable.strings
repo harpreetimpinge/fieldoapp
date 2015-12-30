@@ -1,0 +1,327 @@
+
+
+"Accept"  = "Acceptera";
+"Address"    =  "Adress";
+
+
+
+"Login"              = "Inloggning";
+"Welcome"            = "Välkommen";
+"Remember Password?" = "Kom ihåg lösenord?";
+"Lost Password"      = "Glömt lösenordet";
+"Contact Support"    = "Kontakta Support";
+"Worker" = "Hantverkare";
+"Customer" = "Kund";
+
+
+"Welcome to Fieldo."       = "Välkommen till Fieldo.";
+"For any questions please"       = "För frågor";
+"contact us via our web site."       = "kontakta oss via vår hemsida.";
+
+"Order no."    = "Ordernummer";
+"Order value." = "Beställ / Article Pris";
+
+
+
+"Pending" = "Pågående";
+"Decline" = "Avböj";
+
+
+"Stores" = "butiker";
+"Store Url" = "lagra url";
+"Store"    = "Leverantör";
+"Store:"  = "Leverantör:";
+
+"No Project"="Inget projekt att visa";
+
+
+"Description" = "Beskrivning";
+
+"View Image" = "Visa Bild";
+
+"Projects" = "Projekt";
+"Calendar" = "Kalender";
+"Log"      = "Logg";
+
+
+"Notes"    = "Meddelande";
+"Notes List"   = "Meddelande Lista";
+
+
+"Settings" = "Inställningar";
+"Home"     = "Hem";
+
+
+"Profile"           = "Profil";
+"Change Language"   = "Ändra språk";
+"Out of the Office" = "Frånvaro";
+"Log Out"            = "Logga ut";
+
+"Submit" = "Skicka";
+"Get Image" = "Ta bild";
+
+"Map"  = "Karta";
+
+"Name"       =  "Namn";
+"Skill Set"  =  "kompetens";
+"Email"      =  "E-mail";
+"Contact No." =  "Kontakta no.";
+"City"       =  "stad";
+"State"      =  "State";
+"Country"    =  "land";
+"Zip"        =  "Zip";
+
+"Choose Language" = "Välj språk";
+
+"Customer Details" = "Kunduppgifter";
+"Project Details"  = "Projektdetaljer";
+"Work Plan" = "Arbetsplan";
+"Floor Plan" = "Dokument";
+
+"Date:"          =  "datum:";
+"Date"          =  "datum";
+"Start Date:"    = "Startdatum:";
+"Start Date"    = "Startdatum";
+"End Date:"      = "Slutdatum:";
+"Reason:"         = "Anledning:";
+"Sick Leave"     = "Sjukfrånvaro";
+"Holiday"        = "Semester";
+"Parental Leave" = "Föräldraledighet";
+"Other"          = "Annat";
+"Save"           = "Spara";
+
+"Time Log"     = "Tidslogg";
+"Travel Log"   = "Resedagbok";
+"Material Details" = "Material inköp";
+"Material Log" = "Material Logg";
+"Reports"      = "Rapporter";
+"Project Report" = "Projektrapport";
+"Project Type" = "Projekt typ";
+
+"Start Time:"        = "Starttid:";
+"End Time:"          = "avsluta tid:";
+"Type:"              = "Typ:";
+"Normal Time"        = "Ordinarie tid";
+"Overtime"           = "Övertid";
+"Uncomfortable Time" = "Obekväm arbetstid";
+"More Time"          = "Annan tid";
+"Call Time"          = "Samtalstid";
+"Pause"              = "Rast";
+"Comments"           = "Kommentarer";
+"Comment"            = "kommentera";
+
+
+"From:"      = "Från*:";
+"To:"        = "Till*:";
+"From"      = "Från*";
+"To"        = "Till*";
+"Km"        = "Km";
+"Other fee" = "Annan avgift";
+
+"Compose" = "Nytt Meddelande";
+"Title"   = "Titel";
+"Message" = "Meddelande";
+"Send"    = "Skicka";
+"Cancel"  = "Avbryt";
+
+"Project:"  = "projekt:";
+"Sender"  ="avsändare";
+"Subject" ="Ämne";
+"Note Detail"="Obs Detalj";
+
+
+//Further Additions
+
+"Phone"              = "Telefon";
+"Port Code"          = "Postnummer";
+"Other Info"         = "Annan Info";
+
+
+"Progress Report" = "Rapportera progress";
+
+
+//Add Projects Screen
+
+"Add Project"   ="Lägg Project";
+"Project Name" = "Projektnamn";
+"Customer"="Kunden";
+"Worker(s)"="Personal (er)";
+"Start Date"="Startdatum";
+"Tax Reduction Code"="ROT/RUT";
+"Incl. Vat"="Inkl. MOMS";
+"Cost"="Kostnad";
+"Description"="Beskrivning";
+"Save"="Spara";
+//"Cancel"="avboka";
+"Cancel"="Avbryt";
+"Choose Customer"="Välj kund";
+"Done"="Klar";
+
+"Camera"="kamera";
+"Photos"="Bilder";
+
+
+//Choose Customer Screen
+
+"Select Customer"   ="Välj kund";
+
+
+//Choose Worker Screen
+
+//"Select Workers"   ="Välj Arbetare";
+"Select Workers"   ="Personal";
+
+//Add Customer Screen
+
+//"Add Customer"   ="Lägg Kunden";
+"Add Customer"   ="Skapa Kunden";
+
+"Name"   ="Namn";
+"Company Name" = "Företagsnamn";
+"Organization No."="Organisation No.";
+"Phone"="Telefon";
+"Email"="Email";
+"EDI" = "EDI";
+
+
+//New Strings
+"Route Me"                                      = "Visa vägen";
+"Add Task"                                      = "Lägg till uppdrag";
+"Under:"                                        = "enligt:";
+"Task Name*"                                    = "Uppdrag namn*";
+"Material Name"                                 = "material inköp";
+"Estimated Hour*"                               = "Uppskattad tid*";
+"Contact Us"                                    = "Kontakta oss";
+"Scroll to Pick Project, Tap again"             = "Bläddra till Pick Project, Tryck igen";
+"Change Language"                               = "Välj språk";
+"Company Details"                               = "Företagsinfo";
+"Workers"                                       = "Hantverkare";
+"Company Name"                                  = "Företagsnamn";
+//"Cost"                                          = "Kostnad";
+"Cost"                                          = "Pris";
+"Worker List"                                   = "Hantverkarlista";
+"Invoices"                                      = "Faktura";
+"Time"                                          = "Tid";
+"Fixed"                                         = "Fast";
+"Ratings"                                       = "Omdöme";
+"Project Name"                                  = "Projektnamn";
+"Update Rating"                                 = "Uppdatera omdöme";
+"Rating Index"                                  = "Företagsomdöme";
+"Search Location"                               = "Sök plats";
+"My Location"                                   = "Min plats";
+"Project Location"                              = "Projektplats";
+"URL"                                           = "URL";
+"Rating"                                       = "Omdöme";
+
+
+"Account No."                                   = "Kontonummer";
+"All Leaves"                                    = "Alla blad";
+
+"Edit"                                          = "Redigera";
+
+"New Projects"                                  = "Nya projekt";
+
+
+"Please enter a valid Username and Password. Please try again."     =   "Ange ett giltigt användarnamn och lösenord. Försök igen.";
+
+
+// UIAlertView Message.
+//import "AddCommentsViewController.h"
+"Internet connection is not available. Please try again."       =   "Internet-anslutning är inte tillgänglig. Försök igen.";
+"Any Log Left ?"                                                =   "Varje Logga Vänster ?";
+"Click Yes to fill the logs."                                   =   "Klicka på Ja för att fylla loggarna.";
+"Device doesn't support that camera."                           =   "Enheten stöder inte den kameran.";
+"Device doesn't support that media source."                     =   "Enheten stöder inte denna mediakälla.";
+
+//import "addCustomerViewController.h"
+"Please enter valid email."                                     =   "Ange giltig e-postadress.";
+"Please fill the required fields to create customer."           =   "Vänligen fyll i alla obligatoriska fält för att skapa kund.";
+
+//import "addProjectViewController.h"
+"Please enter Tax Reduction Code first."                        =   "Ange skattereduktion Code först.";
+"Simulator doesn't support the camera."                         =   "Simulator stöder inte kameran.";
+"Server is down, Please try again."                             =   "Servern är nere, Försök igen.";
+"Please fill all the mandatory fields to create a project."     =   "Vänligen fyll i alla obligatoriska fält för att skapa ett projekt.";
+
+//import "AddTaskTVC.h"
+"Please select date."                                           =   "Välj datum.";
+"Please fill required details."                                 =   "Vänligen fyll nödvändiga uppgifter.";
+"Please provide estimated hours."                               =   "Ange uppskattade timmar.";
+"End Date should be greater than start date."                   =   "Slutdatum bör vara större än startdatum.";
+
+//import "ComposeMessageVC.h"
+"Please select project."                                        =   "Välj projekt.";
+
+//import "ConnectionManager.h"
+"Failed in viewDidLoad."                                        =   "Misslyckades i viewDidLoad.";
+
+//import "ContactUsTVC.h" & import "CustomerDetailsVC.h"
+"Phone number does not exist."                                  =   "Telefonnummer finns inte.";
+"Your device doesn't support this feature."                     =   "Enheten stöder inte den här funktionen.";
+"Please configure Email Functionality in your Device."          =   "Konfigurera e-funktionalitet i din enhet.";
+
+//import "customerViewController.h"
+"No data found."                                                =   "Inga uppgifter funna.";
+
+//import "ediViewController.h"
+"Failed to upload data."                                        =   "Det gick inte att ladda upp data.";
+"No Data available."                                            =   "Inga data tillgängliga.";
+
+//import "FloorPlanCVC.h"
+"No data in this category."                                     =   "Inga data i denna kategori.";
+
+//import "InvoiceProjectReportTVC.h"
+"This invoice has already been accepted."                       =   "Denna faktura har redan godtagits.";
+
+//import "LoginVC.h"
+"Please enter a valid email address."                           =   "Ange en giltig e-postadress.";
+"Please enter your password."                                   =   "Ange ditt lösenord.";
+"Data parameter is nil."                                        =   "Data parametern är noll.";
+
+//import "LogVC.h"
+"No Projects yet."                                              =   "Inga projekt ännu.";
+"Select project."                                               =   "Välj projekt.";
+
+//import "MapRouteViewController.h"
+"Failed to get your location."                                  =   "Det gick inte att få din plats.";
+
+//import "MaterialExpenseVC.h"
+"No project lists are available."                               =   "Inga projektlistor finns tillgängliga.";
+"Please provide Order value."                                   =   "Ange Ordervärde.";
+"Please Fill Order Number."                                     =   "Vänligen Fyll Ordernummer.";
+"Material Log already exists."                                  =   "Material Log finns redan.";
+
+//import "NewProjectsListTableViewController.h"
+"No data in new projects."                                      =   "Inga uppgifter i nya projekt.";
+
+//import "NotesVC.h"
+"No notes found."                                               =   "Inga anteckningar som hittats.";
+
+//import "NSIUtility.h"
+"This feature is under development and will be available in future releases."   =   "Denna funktion är under utveckling och kommer att finnas tillgänglig i framtida versioner.";
+
+//import "OutOfTheOfficeVC.h"
+"Select Start Date."                                            =   "Välj startdatum.";
+"Select End Date."                                              =   "Välj Slutdatum.";
+"Select Reason For Leave."                                      =   "Välj Anledning För Lämna.";
+"End Date should not be earlier than the Start Date."           =   "Slutdatum bör inte vara tidigare än startdatum.";
+"Leave already applied."                                        =   "Lämna redan tillämpas.";
+"You can edit the Leave."                                       =   "Du kan redigera Lämna.";
+
+//import "ProjectsVC.h"
+"Server is down please try again later."                        =   "Server är nere försök igen senare.";
+
+//import "RatingDetailTVC.h"
+"Inserted Successfully."                                        =   "Insatt framgångsrikt.";
+
+//import "SettingVC.h"
+"Are you sure to logout ?"                                       =   "Är du säker på att logga ut ?";
+
+//import "TimeLogVC.h"
+"From Time Cannot exceeds the current time."                    =   "Från Tid Kan inte överskrider den aktuella tiden.";
+"Selected time cannot be exceeded."                             =   "Vald tid kan inte överskridas.";
+"Time Log already exists for this date."                        =   "Tid Log finns redan för detta datum.";
+
+//import "TravelExpenseVC.h"
+"Over the Sea...."                                              =   "Under the Sea....";
+

@@ -1,0 +1,178 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+#import "Constants.h"
+#import "AppDelegate.h"
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+// Device os check
+#define SYSTEM_VERSION_EQUAL_TO(v) ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] == NSOrderedSame)
+#define SYSTEM_VERSION_GREATER_THAN(v) ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] == NSOrderedDescending)
+#define SYSTEM_VERSION_GREATER_THAN_OR_EQUAL_TO(v)  ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] != NSOrderedAscending)
+#define SYSTEM_VERSION_LESS_THAN(v) ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] == NSOrderedAscending)
+#define SYSTEM_VERSION_LESS_THAN_OR_EQUAL_TO(v) ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] != NSOrderedDescending)
+#define IS_OS_8_OR_LATER    ([[[UIDevice currentDevice] systemVersion] floatValue] >= 8.0)
+
+//Login Web Service
+#define URL_FORGET_PASSWORD     @"http://fieldo.se/api/recover.php"           // JsonObject='{"email":"umang.impinge@gmail.com"}
+#define URL_LOGIN               @"http://fieldo.se/api/authentication.php"
+/*
+ JsonObject ='{"token":"APA91bGg780Gzfhtid9OfOW2ODlPwmDc2pZmza5O_raXRHtLTh36zYI6nIJyBExEg9jAVmRgGNBsBvU4Q0Oms4MMkHZf7R7VfxaWm6BuSagd_LmD49Z6iCBOL0QIhoVJu7pdfC9XClID5oMzVVg2HGo2Jgy_VeN61A","password":"test123","device_id":"355921042567188","username":"prashant.impinge@gmail.com"}';
+ */
+
+//Notes View Web Services
+#define URL_NOTES_LIST          @"http://fieldo.se/api/getnotes.php"             //JsonObject= {"worker_id":"111"};
+#define URL_DELETE_NOTE         @"http://fieldo.se/api/delnotes.php"             // JsonObject     ='{"notes_id":"41","worker_id":"95"}
+#define URL_NOTES_DETAIL        @"http://fieldo.se/api/getmsgdetail.php"         //JsonObject ='{"notes_id":"11"}'
+#define URL_SEND_NOTES          @"http://fieldo.se/api/insertnotes.php"
+//  JsonObject={"worker_id":"81","subject":"hello","msg":"hello testing","status":"1","project_id":"1"}
+
+
+
+//Store View Web Services
+//#define URL_STORES_LIST         @"http://fieldo.se/api/e_store.php"                     //JsonObject  ={"worker_id":"145"}
+#define URL_STORES_LIST         @"http://fieldo.se/api/new_store.php"                     //JsonObject  ={"worker_id":"145"}
+
+#define URL_STORE_Detail        @"http://fieldo.se/api/storedesc.php"                   // JsonObject='{"store_id":"21"}
+
+
+#define URL_WORKER_LOG          @"http://fieldo.se/api/workerlog.php"
+/*
+JsonObject='{"img":"pl;.pl.pljuhuygyufgytgytgyygyuu","task_id":"3","head_id":"11","comment":"1kmkm","worker_id":"1","percentageofcomplete":"100","project_id":"1"}
+ */
+
+
+#define URL_SET_LAT_LONG        @"http://fieldo.se/api/setLat_long.php"
+/*
+ JsonObject']='{"worker_id":"1","lat":"2","long":"3"
+ */
+
+
+
+//Setting View Web Services
+#define URL_Worker_PROFILE          @"http://fieldo.se/api/workerprofile.php"  //JsonObject ='{"worker_id":"12"}'
+#define URL_OUT_OF_OFFICE           @"http://fieldo.se/api/outofoffice.php" 
+#define URL_EDIT_LEAVE              @"http://fieldo.se/api/editleave.php"
+//JsonObject ='{"worker_id":"1","reason":"other","desc":"other","from":"12:08:2013","to":"18:08:2013"}
+
+
+//Log View Web Services
+#define URL_WEEKLY_REPORT           @"http://fieldo.se/api/weeklyreport.php" //JsonObject='{"worker_id":"111"}
+#define URL_TIME_LOG                @"http://fieldo.se/api/timelog.php"
+ //JsonObject='{"worker_id":"1","project_id":"1","is_to":"09:30","is_from":"10:30","comment":"zyx","start_date":"","end_date":"","priority":"Uncomfortable time"
+#define URL_TRAVEL_EXPENCES         @"http://fieldo.se/api/travelexpences.php"
+//JsonObject='{"worker_id":"1","project_id":"1","from":"New York","to":"San Fransisco","km":"2000","other_fee":"5ooo","comment":"hello","time_to":"10","time_from":"5"}';
+#define URL_METERIAL_EXPENCES       @"http://fieldo.se/api/materialexpences.php"
+//JsonObject='{"worker_id":"1","project_id":"1","material_name":"plug","order_no":"10","order_value":"10","comment":"hello","img":""}';
+
+
+#define URL_PROJECT_WorkPlan     @"http://fieldo.se/api/projectdetail.php"          //JsonObject='{"project_id":"2"}';
+//#define URL_PROJECT_DETAIL       @"http://fieldo.se/api/projectInfo.php"            //JsonObject='{"project_id":"157","worker_id":"111"}';
+#define URL_PROJECT_DETAIL       @"http://fieldo.se/api/projectInfoNew.php"           ////JsonObject='{"project_id":"157"}
+#define URL_CUST_PROJECT_DETAIL  @"http://fieldo.se/api/custprodet.php"            //{"cust_id":"48","project_id":"392"}
+#define URL_Task_Comment         @"http://fieldo.se/api/taskcomment.php"            //JsonObject='{"worker_id":"1","project_id":"1","head_id":"1","comment":"hello"}';
+
+#define URL_UPDATE_EDI         @"http://fieldo.se/api/materialexpencesxml.php"
+#define URL_GET_EDI            @"http://fieldo.se/api/xmllog.php"
+#define URL_CREATE_PROJCT      @"http://fieldo.se/api/project_create.php"
+#define URL_PROJECTS_LIST      @"http://fieldo.se/api/projectworkersdetail.php"     //JsonObject  = {"worker_id":"111"}'
+#define URL_CUSTOMER_DETAIL    @"http://fieldo.se/api/projectcustomerdetail.php"    //JsonObject  = {"project_id":"182"}
+
+#define URL_COMPANY_DETAIL     @"http://fieldo.se/api/projectInfocust.php"
+
+#define URL_WORKER_MSG         @"http://fieldo.se/api/workermsg.php"   //JsonObject={"project_id":"2","worker_id":"3","head_id":"3","task_id":"3"}
+#define URL_WORKER_MSG_IPhone  @"http://fieldo.se/api/workermsgiphone.php"   //JsonObject={"project_id":"2","worker_id":"3","head_id":"3","task_id":"3"}
+
+#define URL_GET_CUSTOMERS @"http://fieldo.se/api/customer_list.php"
+
+#define URL_GET_WORKERS @"http://fieldo.se/api/worker_list.php"
+
+#define URL_CREATE_CUSTOMER @"http://fieldo.se/api/customer_create.php"
+
+#define URL_TIME_LOG_TYPE_OPTIONS @"http://fieldo.se/api/get_timecode.php"
+
+
+//After Project Notification Web Services
+
+#define URL_Project_Assign_Return          @"http://fieldo.se/api/workassignreturn.php"
+
+// JsonObject='{"ISAccept":"1","worker_id":"111","work_id":"85","start_date_by_worker":"","project_id":"6"}';
+
+#define URL_Notification_Project_Assign_Message      @"http://fieldo.se/api/iphone.php"  // JsonObject='{"id":"16"}
+
+
+#define URL_Material_Detail  @"http://fieldo.se/api/allmaterialdetail.php"    //JsonObject = {"worker_id":"3","project_id":"2"};
+
+
+#define URL_PROJECTS_LIST_CUSTOMER  @"http://fieldo.se/api/customerprojectdetail.php"   //JsonObject   ='{"cust_id":"48"}';
+
+#define URL_CUSTOMER_PROFILE      @"http://fieldo.se/api/customerprofile.php"   //JsonObject']='{"cust_id":"36"}';
+
+
+#define URL_Worker_IMAGE_UPDATE   @"http://fieldo.se/api/workerimageupdate.php"       //JsonObject={"worker_id":"69","img":""};
+
+#define URL_Customer_IMAGE_UPDATE   @"http://fieldo.se/api/customerimageupdate.php"    //JsonObject={"cust_id":"69","img":""};
+
+
+#define URL_Customer_Project_Workers  @"http://fieldo.se/api/custprojectworkerlist.php"   //JsonObject  = {"project_id":"71"};
+
+#define IS_OS_8_OR_LATER    ([[[UIDevice currentDevice] systemVersion] floatValue] >= 8.0)
+
+
+////
+////In this web service we get the list of workers of a project of a customer
+////
+////http://fieldo.se/api/custprodet.php
+////$_POST['JsonObject']='{"project_id":"191","cust_id":"48"}';
+////
+////In this web service customer can get the detail of a particular project.
+////
+////
+////$_POST['
+//
+//In this web service customer can get the details of all his projects.
+//
+//
+//
+//In this web service we can get the details of a particular customer.
+//
+//http://fieldo.se/api/projectInfocust.php
+//$_POST['JsonObject']   ='{"project_id":"160"}';
+//
+//In this we get the details of a customer of a particular project.
+//
+//
+//http://fieldo.se/api/projectsumtotal.php
+//$_POST['JsonObject']='{"project_id":"126","projType":"0"}';
+//
+//0 for fixed and 1 for time and material
+//
+//
+//
+
+// Pravi
+
+#define DEBUG_FACILITIES_ENABLED 0;
+
+// Stop
+
+#define USER_LOGINID  [NSUserDefaults standardUserDefaults]
+
+#define Worker_ID  [NSUserDefaults standardUserDefaults]
+
+#define Customer_Details [NSUserDefaults standardUserDefaults]
+
+#define APP_DELEGATE ((AppDelegate*)[[UIApplication sharedApplication]delegate])
+
